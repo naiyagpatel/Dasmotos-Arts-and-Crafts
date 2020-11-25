@@ -1,0 +1,38 @@
+.header {
+    font-family: Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    color:khaki;
+    text-align: center;
+    background-image: url("images/image1.webp");
+}
+.brush {
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;    
+    font-weight: bold;
+    color:white;
+    background-color: mediumspringgreen;
+}
+.frames {
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;    
+    font-weight: bold;
+    color:white;
+    background-color: lightcoral;
+}
+.paint {
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;    
+    font-weight: bold;
+    color:white;
+    background-color: skyblue;
+}
+.price {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+.img {
+    width: 20px;
+    height: 20px;
+}
